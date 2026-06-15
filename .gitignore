@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Chroma vector store local
+.chroma/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Distribuicao / build
+dist/
+build/
+*.egg-info/
+
+# Ferramentas de IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
